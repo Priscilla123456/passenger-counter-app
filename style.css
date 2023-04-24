@@ -2,6 +2,7 @@ body {
   background-size: cover;
   font-weight: bold;
   text-align: center;
+  font-family: "Open Sans";
 }
 
 .container {
@@ -35,11 +36,11 @@ button {
 }
 
 #increment-btn {
-  background: darkred;
+  background: #2c2891;
 }
 
 #save-btn {
-  background: darkgreen;
+  background: #1c7947;
 }
 
 #save-el {
